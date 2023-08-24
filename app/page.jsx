@@ -1,5 +1,5 @@
 export default function HomePage() {
   return (
-    <div>Hello Word</div>
+    <div>Hello Estamos en Home</div>
   )
 }

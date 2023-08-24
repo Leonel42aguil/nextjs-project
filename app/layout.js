@@ -1,5 +1,6 @@
 import NavBar from "@/components/NavBar";
 import { Roboto } from "next/font/google"
+import "./globals.css"
 
 export const metadata = {
   title: "App-Next.js-Home",

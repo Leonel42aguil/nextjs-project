@@ -2,6 +2,7 @@ import React from 'react'
 
 export default function About() {
   return (
-    <div>About</div>
+    <div>Hola aca te puedo contar mas de mi</div>
   )
 }
+ 
