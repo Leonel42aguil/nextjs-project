@@ -5,10 +5,9 @@ async function loadPosts(){
     return data
 } 
 
-
 export default async function page() {
    const posts = await loadPosts()
-   console.log(posts);
+//    console.log(posts);
   return (
     <div>
         {
@@ -22,5 +21,4 @@ export default async function page() {
     </div>
   )
 }
-
 // 1 hora y 7 minutos
